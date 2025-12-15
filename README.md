@@ -1,11 +1,11 @@
 ## Hi there 👋
 ## 💫 About Me:
-- I’m currently working on **data Science & Analytics project** <br>
-- I’m looking to collaborate on **data science / analytics projects, machine learning, forecasting, and business analytics case studies** <br>
-- I'm looking for help with **advanced ML model optimization, MLOps (MLflow, deployment, monitoring), generative AI** <br>
-- I'm currently learning **generative AI & Agentic AI, advanced machine learning techniques** <br>
-- Ask me about **Python for data analysis, clustering & segmentation strategies, risk analytics and business-oriented data science, turning analytical results into dashboards & insights** <br>
-- Fun fact I transitioned from Mechatronics Engineering to Data Science, I enjoy combining analytics with product thinking and storytelling 📊✨
+- 🔍 I’m currently working on Data Science & Analytics projects
+- 🤝 I’m looking to collaborate on data science / analytics projects, machine learning, forecasting, and business analytics case studies
+- 🛠️ I'm looking for help with advanced ML model optimization, MLOps (MLflow, deployment, monitoring), generative AI
+- 📚 I'm currently learning generative AI & Agentic AI, advanced machine learning techniques
+- 💬 Ask me about Python for data analysis, clustering & segmentation strategies, risk analytics and business-oriented data science, turning analytical results into dashboards & insights
+- ✨ Fun fact: I transitioned from Mechatronics Engineering to Data Science, and I enjoy combining analytics with product thinking and storytelling 📊
 
 
 ## 🌐 Socials:
